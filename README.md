@@ -1,6 +1,6 @@
 # Hello I'm Choi Eun Woo
 
-
+<-- 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/sionel">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-
+-->
 <!--
 **sionel/sionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
